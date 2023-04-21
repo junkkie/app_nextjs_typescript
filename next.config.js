@@ -7,7 +7,7 @@ const name = 'app_nextjs_typescript'
 const nextConfig = {
   reactStricMode: true,
   assetPrefix: !debug ? `/${name}/` : '',
-  basePath: '/app_nextjs_typesxript',
+  basePath: '/app_nextjs_typescript',
   trailingSlash: true
 }
 
