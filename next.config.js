@@ -12,4 +12,5 @@ const name = 'app_nextjs_typescript'
 module.exports = {
   assetPrefix: !debug ? `/${name}/` : '',
   basePath: '/app_nextjs_typesxript',
+  this.trailingSlash: true
 }
